@@ -10,4 +10,4 @@
 
 ## Documentation
 
-[requirements](./docs/readme.md)
+[Requirements](./docs/readme.md)
